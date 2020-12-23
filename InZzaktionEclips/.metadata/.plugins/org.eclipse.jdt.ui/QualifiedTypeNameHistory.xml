@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.json.simple.parser.JSONParser"/>
+<fullyQualifiedTypeName name="dao.LoginDao"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONObject"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="dao.TagDao"/>
+<fullyQualifiedTypeName name="vo.Tag"/>
+<fullyQualifiedTypeName name="dao.NoteDao"/>
+<fullyQualifiedTypeName name="dao.WriteDao"/>
+</qualifiedTypeNameHistroy>
